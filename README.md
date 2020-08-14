@@ -64,4 +64,72 @@ const mohit = {
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-430257%20Lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 63 Contributions in year 2020
+ > 
+> 📦 Used 49.9 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 4 Owned Private Repositories 
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+🌆 Daytime    102 commits    █████████░░░░░░░░░░░░░░░░   38.35% 
+🌃 Evening    88 commits     ████████░░░░░░░░░░░░░░░░░   33.08% 
+🌙 Night      57 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%
+
+```
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
+Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Sunday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   25.56%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kolkata
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+
 <!--END_SECTION:waka-->
