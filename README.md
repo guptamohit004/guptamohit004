@@ -5,8 +5,14 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/guptamohit004?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-mohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guptamohit004)](https://www.linkedin.com/in/guptamohit004)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+
+<p>
+<a href="https://twitter.com/guptamohit004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptamohit004" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/guptamohit004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guptamohit004" height="30" width="30" /></a>
+<a href="https://fb.com/guptamohit004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="guptamohit004" height="30" width="30" /></a>
+<a href="https://instagram.com/guptamohit004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guptamohit004" height="30" width="30" /></a>
+</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -33,7 +39,9 @@ const mohit = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-![](https://github-readme-stats.vercel.app/api?username=guptamohit004&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=guptamohit004&show_icons=true&theme=dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guptamohit004&layout=compact)](https://github.com/guptamohit004/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guptamohit004.guptamohit004)
 
@@ -62,80 +70,6 @@ const mohit = {
 
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
 
-<br/> 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 63 Contributions in year 2020
- > 
-> 📦 Used 49.9 kB in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 4 Owned Private Repositories 
-
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-🌆 Daytime    102 commits    █████████░░░░░░░░░░░░░░░░   38.06% 
-🌃 Evening    90 commits     ████████░░░░░░░░░░░░░░░░░   33.58% 
-🌙 Night      57 commits     █████░░░░░░░░░░░░░░░░░░░░   21.27%
-
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Sunday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Kolkata
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
-**I mostly code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/guptamohit004/guptamohit004/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
