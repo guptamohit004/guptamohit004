@@ -72,4 +72,77 @@ const mohit = {
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 63 Contributions in year 2020
+ > 
+> 📦 Used 49.9 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 4 Owned Private Repositories 
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+🌆 Daytime    102 commits    █████████░░░░░░░░░░░░░░░░   37.78% 
+🌃 Evening    92 commits     ████████░░░░░░░░░░░░░░░░░   34.07% 
+🌙 Night      57 commits     █████░░░░░░░░░░░░░░░░░░░░   21.11%
+
+```
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Sunday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   25.19%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kolkata
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/guptamohit004/guptamohit004/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
