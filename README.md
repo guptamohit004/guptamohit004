@@ -14,7 +14,7 @@
 ```javascript
 const mohit = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
+    code: ["Javascript"],
     askMeAbout: ["web development","dev", "tech","PWA"],
     technologies: {
         frontEnd: {
