@@ -73,21 +73,21 @@ const mohit = {
 <em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 71 Contributions in 2020
+> 🏆 71 Contributions in the year 2020
  > 
-> 📦 Used 49.9 kB in GitHub's Storage 
+> 📦 50.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 14 Public repositories
  > 
-> 🔑 4 Owned Private Repositories 
+> 🔑 4 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -98,7 +98,7 @@ const mohit = {
 🌙 Night      63 commits     █████░░░░░░░░░░░░░░░░░░░░   22.5%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
@@ -112,23 +112,23 @@ Sunday       73 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
-Markdown                 1 hr 22 mins        █████████████░░░░░░░░░░░░   52.28% 
-JavaScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   43.21% 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+💬 Programming Languages: 
+JavaScript               2 hrs 24 mins       ███████████████░░░░░░░░░░   60.71% 
+Markdown                 1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   34.75% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
-🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.0%
+🔥 Code Editors: 
+VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
 
-💻 Operating Systems: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.0%
+💻 Operating System: 
+Windows                  3 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
