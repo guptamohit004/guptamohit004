@@ -73,21 +73,21 @@ const mohit = {
 <em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 71 Contributions in the year 2020
+> 🏆 71 Contributions in the Year 2020
  > 
 > 📦 50.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public repositories
+> 📜 14 Public Repositories
  > 
-> 🔑 4 Private repositories 
+> 🔑 4 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -112,23 +112,23 @@ Sunday       73 commits     ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 48 mins       ██████████████░░░░░░░░░░░   57.51% 
-Markdown                 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.27% 
-C++                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+JavaScript               2 hrs 48 mins       ████████████░░░░░░░░░░░░░   50.09% 
+Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.62% 
+C++                      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   22.09% 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
 
-🔥 Code Editors: 
-VS Code                  4 hrs 53 mins       █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  5 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.0%
+Windows                  5 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
