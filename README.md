@@ -73,9 +73,9 @@ const mohit = {
 <em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -118,10 +118,8 @@ Sunday       73 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 33 mins        ██████████████████░░░░░░░   72.23% 
-JavaScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   27.68% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+C++                      1 hr 33 mins        ██████████████████░░░░░░░   72.3% 
+JavaScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   27.7%
 
 🔥 Editors: 
 VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
