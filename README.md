@@ -30,7 +30,7 @@ const mohit = {
         backEnd: {
             js: ["node", "express", "loopback"]
         },
-        databases: ["mongo", "sql", "neo4j"],
+        databases: ["mongo", "sql"],
         misc: ["Firebase", "GraphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications","Server Side Rendering"]
