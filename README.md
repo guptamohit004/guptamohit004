@@ -8,7 +8,7 @@
 ✉️ &nbsp;You can shoot me an email at mohit.g0218@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://guptamohit004.tech/mohit-gupta.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
