@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🔭 Ask me about anything, I am happy to help.\
-⚡️ Fun-Fact: Anything is possible, Just be consistent and keep learning.\
+💡 &nbsp;  I like to explore new technologies and develop software solutions and quick hacks.\
+🔭 &nbsp; Ask me about anything, I am happy to help.\
+⚡️ &nbsp; Fun-Fact: Anything is possible, Just be consistent and keep learning.\
 🥅 &nbsp; 2020 Goals: Work on gread products and contribute to Open Source projects.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at mohit.g0218@gmail.com!. I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://guptamohit004.tech/mohit-gupta.pdf) for more details about me. I'm open to feedback and suggestions!
+💬 &nbsp; Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp; You can shoot me an email at mohit.g0218@gmail.com!. I'll try to respond as soon as I can.\
+📄 &nbsp; Please have a look at my [Résumé](https://guptamohit004.tech/mohit-gupta.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="200" align="right"/>
 
