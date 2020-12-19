@@ -3,8 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🔭 Ask me about anything related to JS, React, Next.JS, Redux, Firebase.\
-🥅 &nbsp; 2020 Goals: Contribute to Open Source projects.\
+🔭 Ask me about anything, I am happy to help.\
+⚡️ Fun-Fact: Anything is possible, Just be consistent and keep learning.
+🥅 &nbsp; 2020 Goals: Work on gread products and contribute to Open Source projects.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mohit.g0218@gmail.com!. I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://guptamohit004.tech/mohit-gupta.pdf) for more details about me. I'm open to feedback and suggestions!
