@@ -8,7 +8,7 @@
 🥅 &nbsp; 2021 Goals: Work on great products and contribute to Open Source projects.\
 💬 &nbsp; Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp; You can shoot me an email at mohit.g0218@gmail.com!. I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Résumé](https://guptamohit004.tech/mohit-gupta.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp; Please have a look at my [Résumé]([https://guptamohit004.tech/mohit-gupta.pdf](https://portfolio-gamma.vercel.app/mohit-gupta.pdf)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coding" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="200" align="right"/>
 
@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://guptamohit004.tech"><img src="https://img.shields.io/badge/-guptamohit004.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="[https://guptamohit004.tech](https://portfolio-gamma.vercel.app)"><img src="https://img.shields.io/badge/-guptamohit004.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/guptamohit004"><img src="https://img.shields.io/badge/-Mohit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohit.g0218@gmail.com"><img src="https://img.shields.io/badge/-mohit.g0218@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/guptamohit004"><img src="https://img.shields.io/badge/-@guptamohit004-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
